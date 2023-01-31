@@ -81,17 +81,17 @@ You can find my list of available commands with /help.
 """
 
 HELP_STRINGS = """
-Hey there! My name is *{}*.
-I'm a modular group management bot and help admins to manage their groups. Have a look at the following for an idea of some of \
-the things I can help you with.
+**Help**
 
-*Main* commands available:
- • /help: PM's you this message.
- • /help <module name>: PM's you info about that module.
- • /donate: information on how to donate!
- • /settings:
-   • in PM: will send you your settings for all supported modules.
-   • in a group: will redirect you to pm, with all that chat's settings.
+Hey! I am a group management bot, here to help you get around and keep the order in your groups!
+I have lots of handy features, such as flood control, a warning system, a note keeping system, and even predetermined replies on certain keywords.
+
+**Helpful commands:**
+- /start: Starts me! You've probably already used this.
+- /help: Sends this message; I'll tell you more about myself!
+- /donate: Gives you info on how to support me and my creator.
+
+If you have any bugs or questions on how to use me, have a look at my Support group.
 {}
 And the following:
 """.format(
